@@ -13,4 +13,6 @@ npm init
 
 npm install -g typescript
 npm install --save-dev typescript ts-loader webpack webpack-cli webpack-dev-server
+
+tsc --init
 ```
